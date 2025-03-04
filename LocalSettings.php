@@ -4582,6 +4582,7 @@ $wgConf->settings += [
 		],
 		'+cafewiki' => [
 			'sysop',
+			'interface-admin',
 		],
 		'+ldapwikiwiki' => [
 			'user',
