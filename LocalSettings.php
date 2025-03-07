@@ -1,5 +1,5 @@
 <?php
-
+/*TEST*/
 /** LocalSettings.php for Miraheze. */
 
 // Don't allow web access.
